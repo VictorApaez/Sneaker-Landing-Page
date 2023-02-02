@@ -102,6 +102,9 @@ h1 {
   fill: black;
 }
 
+.more-info {
+  padding: 40px 20px;
+}
 .more-info img {
   width: 100%;
   object-fit: cover;
@@ -157,7 +160,7 @@ h1 {
     color: white;
   }
   .logo span {
-    color: red;
+    color: rgb(218, 104, 104);
   }
   .hero {
     color: black;
